@@ -1,0 +1,4 @@
+interface:
+  display_name: "UCup 推文设计"
+  short_description: "设计 UCup 图文、组合图片与动效，并验证秀米及微信交付效果"
+  default_prompt: "使用 $ucup-wechat，根据提供的文章和素材设计可编辑的 UCup 推文，并给出多款样式对比。"
